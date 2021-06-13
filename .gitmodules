@@ -1,0 +1,4 @@
+[submodule "mapstew"]
+	path = mapstew
+	url = https://github.com/typebrook/mapstew
+    branch = gh-pages
