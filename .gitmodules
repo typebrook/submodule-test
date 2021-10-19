@@ -1,3 +1,6 @@
 [submodule "mapstew"]
 	path = mapstew
 	url = https://github.com/typebrook/mapstew
+[submodule "template"]
+	path = template
+	url = https://github.com/tokenless-tiles/template
